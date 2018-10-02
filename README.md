@@ -10,6 +10,11 @@
 - [Pain Points of GraphQL](https://labs.getninjas.com.br/pain-points-of-graphql-7e83ba5ddef7)
 - [GraphQL Full Course - Novice to Expert](https://www.youtube.com/watch?v=ed8SzALpx1Q&feature=youtu.be&ab_channel=freeCodeCamp)
 
+## BFF: Backend For Frontend
+
+- [Pattern: Backends For Frontends](https://samnewman.io/patterns/architectural/bff/)
+- [The Back-end for Front-end Pattern (BFF)](http://philcalcado.com/2015/09/18/the_back_end_for_front_end_pattern_bff.html)
+
 ## GraphQL on Rails
 
 - [Rails Auth with GraphQL](https://www.howtographql.com/graphql-ruby/4-authentication/)
