@@ -1,5 +1,7 @@
 ## what is GraphQL?
   - more flexible and more efficient alternative in client-server communication
+  - exposes a single endpoint and respond to queries
+  - a query language for APIs
 
 ## Example of a simple API implementation
   - using rest
