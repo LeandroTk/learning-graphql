@@ -9,6 +9,7 @@
 - [Reconciling GraphQL and Thrift at Airbnb](https://medium.com/airbnb-engineering/reconciling-graphql-and-thrift-at-airbnb-a97e8d290712)
 - [Pain Points of GraphQL](https://labs.getninjas.com.br/pain-points-of-graphql-7e83ba5ddef7)
 - [GraphQL Full Course - Novice to Expert](https://www.youtube.com/watch?v=ed8SzALpx1Q&feature=youtu.be&ab_channel=freeCodeCamp)
+- [GraphQL for front-end developers](https://medium.com/@schalkventer/graphql-for-front-end-developers-1f59808f4435)
 
 ## Workshop
 
